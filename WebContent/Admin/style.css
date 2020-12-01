@@ -1,0 +1,225 @@
+/* 
+
+
+  */
+
+.wrapper {
+	width: 1200px;
+	margin: 0 auto;
+	font-family: 'Jua', sans-serif;
+}
+
+#menu { /*상단 메뉴 섹션*/
+	border-bottom: solid 1px black;
+	height: 20px;
+	list-style-type: none;
+	list-style-position: inside;
+}
+
+#menu li {
+	color: black;
+	display: inline;
+	font-size: 15px;
+	margin-top: 50px;
+	
+}
+
+#menu li a {
+	float: left;
+	margin-right: 20px;
+	text-decoration: none;
+}
+
+#menu a:link {
+	color: black;
+	text-decoration: none;
+}
+
+#menu a:visited {
+	color: black;
+	text-decoration: none;
+}
+
+#menu a:hover {
+	color: black;
+	text-decoration: underline;
+}
+
+#menu a:active {
+	color: black;
+	text-decoration: underline;
+}
+
+#menuRight {
+	list-style-type: none;
+	list-style-position: inside;
+	margin-top: -100px;
+}
+
+#menuRight li {
+	color: white;
+	display: inline;
+	font-size: 15px;
+	margin-top: 50px;
+}
+
+#menuRight li a {
+	float: right;
+	margin-right: 20px;
+	text-decoration: none;
+}
+
+#menuRight a:link {
+	color: black;
+	text-decoration: none;
+}
+
+#menuRight a:visited {
+	color: black;
+	text-decoration: none;
+}
+
+#menuRight a:hover {
+	color: black;
+	text-decoration: underline;
+}
+
+#menuRight a:active {
+	color: black;
+	text-decoration: underline;
+}
+
+.centerMenu {
+	border-bottom: solid 1px black;
+	height: 300px;
+	margin-top: 100px;
+}
+
+#title {
+	margin-left: 250px;
+}
+
+#bottomMenu {
+	margin: 0 auto;
+}
+
+#downMenu {
+	border-bottom: solid 1px black;
+	height: 20px;
+	list-style-type: none;
+	list-style-position: inside;
+	padding-left: 200px;
+	padding-bottom: 15px;
+}
+
+#downMenu li {
+	color: white;
+	display: inline;
+	font-size: 15px;
+}
+
+#downMenu li a {
+	float: center;
+	margin-right: 70px;
+	text-decoration: none;
+}
+
+#downMenu a:link {
+	color: black;
+	text-decoration: none;
+}
+
+#downMenu a:visited {
+	color: black;
+	text-decoration: none;
+}
+
+#downNenu a:hover {
+	color: black;
+	text-decoration: underline;
+}
+
+#downMenu a:active {
+	color: black;
+	text-decoration: underline;
+}
+
+.container {
+	padding: 80px 120px;
+}
+
+.person {
+	border: 10px solid transparent;
+	margin-bottom: 25px;
+	width: 80%;
+	height: 80%;
+	opacity: 0.7;
+}
+
+.person:hover {
+	border-color: #f1f1f1; div .carousel {width : 80px;
+	height: 100px;
+	margin-up: 300px;
+}
+
+}
+.navMargin {
+	margin-top: 100px;
+}
+
+nav img:hover {
+	opacity: 0.5;
+}
+
+#join {
+	position: relative;
+	width: 55%;
+	height: 50%;
+	margin-top: 100px;
+	margin-bottom: 200px;;
+	margin-left: 350px;
+}
+
+.jb-text {
+	color: #8c8c8c;
+}
+
+.w3-button {
+	background: #F6CECE;
+}
+
+.y {
+	font-size: 20px
+}
+
+hr.new1 {
+	border-top: 3px solid black;
+}
+
+.button {
+	background-color: #4CAF50; /* Green */
+	border: none;
+	color: black;
+	padding: 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+	magin-top: 30px;
+}
+
+.button4 {
+	border-radius: 12px;
+}
+
+#bottom {
+	position: absolute;
+	left: 32%;
+}
+
+#bot {
+	margin-top: 130px;
+	text-align: center;
+}
